@@ -1,0 +1,20 @@
+img{
+	width: 250px;
+	height: 250px;
+}
+
+
+p{
+	color: red;
+}
+
+a{
+	color: red;
+}
+
+a:hover{
+	color: blue;
+	border: 5px solid gray;
+	border-radius: 5px;
+	background-color: gray; 
+}
